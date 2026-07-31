@@ -6,7 +6,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?logo=streamlit)
 ![Gemini](https://img.shields.io/badge/Google-Gemini-blue?logo=google)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -19,6 +18,7 @@
 * 📝 Chat history storage
 * 🗄 MySQL database support
 * ⚡ Fast and simple Streamlit interface
+* 📋 Multiple PDF support
 
 ---
 
@@ -74,22 +74,10 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of:
-
-* 🏠 Home Page
-* 💬 Chat Interface
-* 📄 Upload Page
-* 📜 Chat History
-
----
 
 ## 🔮 Future Improvements
 
-* Multiple PDF support
 * User Authentication
-* OCR for scanned PDFs
 * Voice Assistant
 * Cloud Deployment
 * Advanced Knowledge Search
@@ -99,8 +87,14 @@ streamlit run app.py
 ## 👨‍💻 Team
 
 **Project:** Gyanibaba – AI Personal Knowledge Assistant
+**Members:** 
+  1. Md Zabed Aktar Khan (https://github.com/Zabed05/)
+  2. kumaresh Jana (https://github.com/iamkumaresh/)
+  3. Akash Khan (https://github.com/akash-on-web/)
+  4. Hritwik Mondal (https://github.com/HRITWIK11/)
+  5. Mojammel Hossain Sha (https://github.com/mojammel386/)
 
-Developed as a **Generative AI** college project.
+Developed as a **Generative AI** college BCT project.
 
 ---
 
