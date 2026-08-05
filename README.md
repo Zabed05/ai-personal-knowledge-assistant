@@ -21,6 +21,8 @@
 * 📋 Multiple PDF support
 
 ---
+# 🔗 Live Demo: [https://gyanibaba-ai.streamlit.app/]
+---
 
 ## 🛠 Tech Stack
 
